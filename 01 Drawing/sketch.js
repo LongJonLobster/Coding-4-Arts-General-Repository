@@ -18,6 +18,9 @@ function draw() {
   // right circle
   ellipse(230, 200, 80, 100);
 
+  // stalk
+  rect(185, 130, 30, 40);
+
 
 
   // color
@@ -31,6 +34,9 @@ function draw() {
 
   // right circle
   ellipse(230, 200, 70, 90);
+
+  //stalk
+  rect(190, 135, 20, 30);
 
   // eyes
   stroke(200, 0, 0);
