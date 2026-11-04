@@ -1,6 +1,8 @@
 # Coding-4-Arts-General-Repository
 Project things by Jonathan Chittum ahhhhh
 
+(ok something weird has happened with the links,  the files on github.com list as being "01 drawing" but in VSCode and git desktop they list as being "01.Drawing" its really freaking me out and I am not staying up any later trying to sort this, sorry)
+
 https://longjonlobster.github.io/Coding-4-Arts-General-Repository/
 
 [01.Drawing](01%20Drawing/index.html)
