@@ -1,5 +1,5 @@
 # Coding-4-Arts-General-Repository
-Project things ahhhhh
+Project things by Jonathan Chittum ahhhhh
 
 https://longjonlobster.github.io/Coding-4-Arts-General-Repository/
 
